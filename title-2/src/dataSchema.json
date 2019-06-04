@@ -1,0 +1,15 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema",
+  "type": "object",
+  "properties": {
+    "title": {
+      "type": "string",
+      "title": "标题"
+    },
+    "color": {
+      "type": "string",
+      "title": "背景颜色",
+      "format": "color"
+    }
+  }
+}
