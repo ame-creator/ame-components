@@ -6,7 +6,6 @@
         :style="markerStyle"
       />
       <span class="text">{{ title }}</span>
-      {{ title }}
     </div>
   </div>
 </template>

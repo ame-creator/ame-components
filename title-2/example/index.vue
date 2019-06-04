@@ -14,7 +14,7 @@ import Title2 from '../src'
 })
 export default class Example extends Vue {
   options = {
-    title: 'Demo',
+    title: '标题',
     color: '#811A7F'
   }
 }
