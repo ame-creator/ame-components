@@ -1,0 +1,35 @@
+{
+  "name": "@ac-vue/detail-1",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "ame-cli-service serve",
+    "build": "ame-cli-service build",
+    "doc:build": "ame-cli-service doc:build",
+    "doc:serve": "ame-cli-service doc:serve"
+  },
+  "main": "dist/index.umd.js",
+  "files": [
+    "dist"
+  ],
+  "dependencies": {
+    "vue": "^2.6.10",
+    "vue-class-component": "^7.0.2",
+    "vue-property-decorator": "^8.1.0",
+    "vuetify": "^1.5.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-typescript": "^3.8.0",
+    "@vue/eslint-config-standard": "^4.0.0",
+    "@vue/eslint-config-typescript": "^4.0.0",
+    "ame-cli-service": "^0.1.8",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "sass": "^1.18.0",
+    "sass-loader": "^7.1.0",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2",
+    "typescript": "^3.4.3",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
