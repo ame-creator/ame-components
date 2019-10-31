@@ -20,6 +20,18 @@ Vue.use(Vuetify)
   }
 })
 export default class Example extends Vue {
-  options = { title: 'Demo' }
+  options = {
+    title: '首席产品体验师',
+    tags: [
+      {
+        title: '15k/每月',
+        color: '#fc6565'
+      },
+      {
+        title: '月结',
+        color: '#999999'
+      }
+    ]
+  }
 }
 </script>

@@ -5,6 +5,25 @@
     "title": {
       "type": "string",
       "title": "标题"
+    },
+    "tags": {
+      "type": "array",
+      "title": "标签组",
+      "format": "tabs-top",
+      "items": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "title": "标签名"
+          },
+          "color": {
+            "type": "string",
+            "title": "颜色",
+            "format": "color"
+          }
+        }
+      }
     }
   }
 }
