@@ -101,7 +101,8 @@ export default class Detail1 extends Vue {
       }
 
       .desc {
-        margin-bottom: 0;
+        margin: 0;
+        padding: 0;
         font-size: 14px;
         color: #999;
       }
