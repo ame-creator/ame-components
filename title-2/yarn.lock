@@ -1572,10 +1572,10 @@ amdefine@>=0.0.4:
   resolved "https://registry.yarnpkg.com/amdefine/-/amdefine-1.0.1.tgz#4a5282ac164729e93619bcfd3ad151f817ce91f5"
   integrity sha1-SlKCrBZHKek2Gbz9OtFR+BfOkfU=
 
-ame-cli-service@^0.1.4:
-  version "0.1.6"
-  resolved "https://registry.yarnpkg.com/ame-cli-service/-/ame-cli-service-0.1.6.tgz#b6dc0c3b20935d9a4b7afe33e0dc5cdbf0461d5b"
-  integrity sha512-FICqDmyyTqF06iDXIyYY2S+Tb35xU2p7ZEHUiRMQtge31JCgNcSLcGMFT3HKu2jkIxDGNJIHBwTgUIfayKNtUw==
+ame-cli-service@^0.1.8:
+  version "0.1.8"
+  resolved "https://registry.npm.taobao.org/ame-cli-service/download/ame-cli-service-0.1.8.tgz#696733cf7ec21ef1bddb4a875e7ab3d450925bf5"
+  integrity sha1-aWczz37CHvG920qHXnqz1FCSW/U=
   dependencies:
     "@vue/babel-preset-app" "^3.8.0"
     "@vue/cli-plugin-babel" "^3.8.0"

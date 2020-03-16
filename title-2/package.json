@@ -21,7 +21,7 @@
     "@vue/cli-plugin-typescript": "^3.8.0",
     "@vue/eslint-config-standard": "^4.0.0",
     "@vue/eslint-config-typescript": "^4.0.0",
-    "ame-cli-service": "^0.1.4",
+    "ame-cli-service": "^0.1.8",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
     "sass": "^1.18.0",
